@@ -8,4 +8,4 @@ This case got data from Maven Market, a multi-national grocery chain with locat
 
 The report showed some figures of Maven Market like Total Transactions, Total Profit, Profit Margin, and Revenue.
 
-![result](./maven-market.PNG)
+![result](./powerbi/maven-market.PNG)
