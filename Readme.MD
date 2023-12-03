@@ -184,7 +184,7 @@ The Units MAT of Organic in March 2023 is 850,749 units. It’s estimated that 2
 
 `Model`
 
-![image](./powerbi/Model-Chart-Image/model.PNG)
+![image](./powerbi/Model-Chart-Image/model.png)
 
 `Key Points`
 
@@ -195,11 +195,11 @@ The Units MAT of Organic in March 2023 is 850,749 units. It’s estimated that 2
 Example: Detail of Taste of the Wild High Prairie Grain-Free Dry Dog Food 40 lb
 
 
-![image](./powerbi/Model-Chart-Image/2.PNG)
+![image](./powerbi/Model-Chart-Image/2.png)
 
 - In the sheet of Market Basket Analysis, we find out what products are commonly purchased together. Assume that Whiskique wants to push sales of Pet Hair Remover, we realize that the the top 3  products that are usually purchased with Pet Hair Remover include Earth Rated Dog Poop Bags, Pet Grooming Brush, Milk-Bone Maro Snacks Dog Treats with Real Bone. Then some new promotion campaigns could be raised by a combination of these products.
 
-![image](./powerbi/Model-Chart-Image/3.PNG)
+![image](./powerbi/Model-Chart-Image/3.png)
 
 <p align="center">
   <img src="./powerbi/Model-Chart-Image/6.png" width="23%">
@@ -216,7 +216,7 @@ Example: Detail of Taste of the Wild High Prairie Grain-Free Dry Dog Food 40 lb
         
     - After that, they supplied more detail data as below with What-if quantity is the fictitious average quantity of 1 type of product per invoice. They request us to add the impact of shipped quantity on shipping costs.
     
-![image](./powerbi/Model-Chart-Image/5.PNG)
+![image](./powerbi/Model-Chart-Image/5.png)
     
 - Create a slicer to choose What-if quantity from 1 to 20.
 - Blended Shipping Cost Factor is the cost multiplier
@@ -237,4 +237,4 @@ Example: Detail of Taste of the Wild High Prairie Grain-Free Dry Dog Food 40 lb
     
 - Check the Area Map, Impact of Shipped Quantity on Shipping Cost by Month, assume that What-if quantity is 7, we will save $59,488.2 in total (12/2020 - 12/2021).
 
-![image](./powerbi/Model-Chart-Image/4.PNG)
+![image](./powerbi/Model-Chart-Image/4.png)
