@@ -4,7 +4,7 @@ This Portforlio includes:
 
 - [Excel Case Study](#excel-case-study-net-revenue-management)
 
-- [PowerBi Case Study](#powerbi-case-study)
+- [PowerBi Case Study](#powerbi-case-study-ecommerce)
 
 ## Excel Case Study-Net Revenue Management
 
@@ -22,7 +22,7 @@ This Portforlio includes:
 
 ![excel description](./excel/Data-description.png)
 
-**`Conclusions and Recommendations`**
+### Conclusions and Recommendations
 
 - The total sales value in the shampoo industry in 2022 is $93,997,886. HealthMax was the top 1 supplier with 33.45% market share.
 - HealthMax Value Sales per brand and year showed that their business growth increased sustainably through 2018-2022.
@@ -78,7 +78,7 @@ This Portforlio includes:
 
 ![image](./excel/Table-Chart-Image/04.png)
 
-Q3. HealthMax is looking to shift investments between its products. Make a list of product prioritizations in the function of their net sales and their profitability to find out the potential product.
+#### `Q3. HealthMax is looking to shift investments between its products. Make a list of product prioritizations in the function of their net sales and their profitability to find out the potential product.`
 
 **Source: internal_sales_data.csv**
 
@@ -109,7 +109,7 @@ Q3. HealthMax is looking to shift investments between its products. Make a list 
 
 ![image](./excel/Table-Chart-Image/08.png)
 
-The Units MAT of Organic in March 2023 is 850,749 units. It’s estimated that 2024 sales will increase by 20%, equivalent to 1,020,899 units. (Sheet New Category Opportunity)
+- The Units MAT of Organic in March 2023 is 850,749 units. It’s estimated that 2024 sales will increase by 20%, equivalent to 1,020,899 units. (Sheet New Category Opportunity)
 
 ![image](./excel/Table-Chart-Image/09.png)
 
@@ -173,13 +173,13 @@ The Units MAT of Organic in March 2023 is 850,749 units. It’s estimated that 2
 
 ![image](./excel/Table-Chart-Image/15.png)
 
-## PowerBI Case Study
+## PowerBI Case Study-Ecommerce
 
-`Business Simulation`
+### Business Simulation
 
 - In this case, we’ll analyze a business simulation of an online pet supply company called Whiskique via a fictitious e-commerce dataset.
 
-`Dataset Description`
+### Dataset Description
 
 - **fact_sales.csv** is the primary transaction table from December 2020 to the end of 2021.
 - **dim_products.csv** contains additional attributes of products.
@@ -188,11 +188,11 @@ The Units MAT of Organic in March 2023 is 850,749 units. It’s estimated that 2
 
 ![image](./powerbi/Data-description.png)
 
-`Model`
+### Model
 
 ![image](./powerbi/Model-Chart-Image/model.png)
 
-`Key Points`
+### Key Points
 
 - In the sheet of Executive Summary, we calculate Total Sales, Total Profit, Total Shipping Cost, and Profit Margin. Besides, we have a slicer of Product Descriptions to clarify the above metrics for each product.
 
