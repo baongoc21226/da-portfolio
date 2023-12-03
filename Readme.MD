@@ -1,6 +1,12 @@
 # Data Analyst Portforlio
 
-## Net Revenue Management
+This Portforlio includes:
+
+- [Excel Case Study](./#excel-case-study-net-revenue-management)
+
+- [PowerBi Case Study](./#powerbi-case-study)
+
+## Excel Case Study - Net Revenue Management
 
 ### Business Simulation
 
