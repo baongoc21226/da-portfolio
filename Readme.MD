@@ -2,11 +2,11 @@
 
 This Portforlio includes:
 
-- [Excel Case Study](./#excel-case-study-net-revenue-management)
+- [Excel Case Study](#excel-case-study-net-revenue-management)
 
-- [PowerBi Case Study](./#powerbi-case-study)
+- [PowerBi Case Study](#powerbi-case-study)
 
-## Excel Case Study - Net Revenue Management
+## Excel Case Study-Net Revenue Management
 
 ### Business Simulation
 
@@ -173,7 +173,7 @@ The Units MAT of Organic in March 2023 is 850,749 units. It’s estimated that 2
 
 ![image](./excel/Table-Chart-Image/15.png)
 
-## PBI case study
+## PowerBI Case Study
 
 `Business Simulation`
 
