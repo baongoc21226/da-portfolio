@@ -1,6 +1,6 @@
-# Data Analyst Portforlio
+# Data Analyst Portfolio
 
-This Portforlio includes:
+This Portfolio includes:
 
 - [Excel Case Study](#excel-case-study-net-revenue-management)
 
