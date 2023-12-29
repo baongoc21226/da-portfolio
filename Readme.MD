@@ -1,6 +1,6 @@
-# Data Analyst Portforlio
+# Data Analyst Portfolio
 
-This Portforlio includes:
+This Portfolio includes:
 
 - [Excel Case Study: Net Revenue Management](./excel/doc.md)
 
@@ -10,4 +10,3 @@ This Portforlio includes:
     - [Analyzing Motorcycle Part Sales](./sql/docs/motorcycle.md)
     - [The Golden Era Of Video Games](./sql/docs/video_game.md)
     - [Analyzing Unicorn Companies](./sql/docs/unicorn_company.md)
-
