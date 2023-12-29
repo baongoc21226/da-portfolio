@@ -8,9 +8,8 @@ Assume that I have been asked to support an investment firm by analyzing trends 
 
 The Unicorns database contains 4 tables: dates, funding, industries, companies
 
-![image](../images/unicorn1.png)
-![image](../images/unicorn2.png)
-
+<img src="../images/unicorn1.png" width="630" height="360">
+<img src="../images/unicorn2.png" width="630" height="360">
 
 ## Analyzing
 

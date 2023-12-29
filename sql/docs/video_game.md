@@ -10,8 +10,8 @@ In this project, I will analyze video game critic and user scores as well as sal
 
 The database contains 4 tables: game_sales, reviews, users_avg_year_rating, critics_avg_year_rating.
 
-![image](../images/videogame1.png)
-![image](../images/videogame2.png)
+<img src="../images/videogame1.png" width="500" height="430">
+<img src="../images/videogame2.png" width="500" height="300">
 
 ## Analyzing
 
