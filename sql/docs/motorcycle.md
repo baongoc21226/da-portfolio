@@ -10,7 +10,7 @@ I have been tasked with calculating wholesale net revenue for each product line 
 ## Data Description
 The database contains the Sales table:
 
-<img src="../images/motorcycle1.png" width="600" height="360">
+<img src="../images/motorcycle1.png" width="720" height="420">
 
 ## Analyzing
 ```sql
