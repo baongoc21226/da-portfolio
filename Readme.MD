@@ -6,7 +6,7 @@ This Portfolio includes:
 
 - [Power BI Case Study: E-commerce](./powerbi/doc.md)
 
-- SQL Case Study:
+- SQL Case Studies:
     - [Analyzing Motorcycle Part Sales](./sql/docs/motorcycle.md)
     - [The Golden Era Of Video Games](./sql/docs/video_game.md)
     - [Analyzing Unicorn Companies](./sql/docs/unicorn_company.md)
